@@ -49,20 +49,6 @@ This is my **work account** — where the day job lands.
 
 </div>
 
----
-
-### 🐍 Watch it eat the year
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezzham1/ezzham1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezzham1/ezzham1/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/ezzham1/ezzham1/output/github-snake.svg" alt="Snake animation eating my contribution graph" width="98%" />
-</picture>
-
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="Footer wave" />
